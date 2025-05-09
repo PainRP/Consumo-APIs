@@ -1,0 +1,13 @@
+C:\Users\SANDRA\Documents\C# U\ConsumoApiTarea\ConsumoApiTarea\bin\Debug\ConsumoApiTarea.exe.config
+C:\Users\SANDRA\Documents\C# U\ConsumoApiTarea\ConsumoApiTarea\bin\Debug\ConsumoApiTarea.exe
+C:\Users\SANDRA\Documents\C# U\ConsumoApiTarea\ConsumoApiTarea\bin\Debug\ConsumoApiTarea.pdb
+C:\Users\SANDRA\Documents\C# U\ConsumoApiTarea\ConsumoApiTarea\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SANDRA\Documents\C# U\ConsumoApiTarea\ConsumoApiTarea\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SANDRA\Documents\C# U\ConsumoApiTarea\ConsumoApiTarea\obj\Debug\ConsumoApiTarea.csproj.AssemblyReference.cache
+C:\Users\SANDRA\Documents\C# U\ConsumoApiTarea\ConsumoApiTarea\obj\Debug\ConsumoApiTarea.Form1.resources
+C:\Users\SANDRA\Documents\C# U\ConsumoApiTarea\ConsumoApiTarea\obj\Debug\ConsumoApiTarea.Properties.Resources.resources
+C:\Users\SANDRA\Documents\C# U\ConsumoApiTarea\ConsumoApiTarea\obj\Debug\ConsumoApiTarea.csproj.GenerateResource.cache
+C:\Users\SANDRA\Documents\C# U\ConsumoApiTarea\ConsumoApiTarea\obj\Debug\ConsumoApiTarea.csproj.CoreCompileInputs.cache
+C:\Users\SANDRA\Documents\C# U\ConsumoApiTarea\ConsumoApiTarea\obj\Debug\ConsumoA.F153853B.Up2Date
+C:\Users\SANDRA\Documents\C# U\ConsumoApiTarea\ConsumoApiTarea\obj\Debug\ConsumoApiTarea.exe
+C:\Users\SANDRA\Documents\C# U\ConsumoApiTarea\ConsumoApiTarea\obj\Debug\ConsumoApiTarea.pdb
